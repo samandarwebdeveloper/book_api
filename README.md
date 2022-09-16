@@ -1,4 +1,4 @@
-# Books API in Go with Fiber and Docker gRPC Microservice
+# Books API in Go with Fiber and Docker Microservice
 
 
 ## Docker
